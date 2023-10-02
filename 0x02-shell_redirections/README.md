@@ -19,4 +19,5 @@
 19. 18-letteronly - how to listfiles depending on what your prefrences are
 20. 19-AZ - how to replace characters
 21. 20-hiago - how to remove characters.
-22. 21-reverse - how to reverse input 
+22. 21-reverse - how to reverse input
+23. 22-users_and_homes - displays users together with their home directories 
