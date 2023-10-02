@@ -18,4 +18,5 @@
 18. 17-hidethisword - how to separate files using a word.
 19. 18-letteronly - how to listfiles depending on what your prefrences are
 20. 19-AZ - how to replace characters
-21. 20-hiago - how to remove characters. 
+21. 20-hiago - how to remove characters.
+22. 21-reverse - how to reverse input 
