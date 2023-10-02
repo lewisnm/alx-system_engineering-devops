@@ -5,3 +5,4 @@
 5. 4-lastlines - displays the last ten lines in a file/directory
 6. 5-firstlines - displays the first ten lines in a file/directory
 7. 6-third_line -how to print a specific line using awk
+8. 7-file- creating file names with characters in them
