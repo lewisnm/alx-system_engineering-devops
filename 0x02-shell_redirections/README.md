@@ -9,3 +9,4 @@
 9. 8-cwd_state- how to redirect commands
 10. 9-duplicate_last_line -how to duplicate the last line
 11. 10-no_more_js- how to delete specific files
+12. 11-directories- how to get the total number of directories
