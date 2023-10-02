@@ -16,4 +16,5 @@
 16. 15-countthatword - how to display in how many lines a word occurs
 17. 16-whatsnext - how to display a couple of line together with a specified one.
 18. 17-hidethisword - how to separate files using a word.
-19. 18-letteronly - how to listfiles depending on what your prefrences are 
+19. 18-letteronly - how to listfiles depending on what your prefrences are
+20. 19-AZ - how to replace characters 
