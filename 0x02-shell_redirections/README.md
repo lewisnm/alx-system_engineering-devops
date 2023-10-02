@@ -6,3 +6,4 @@
 6. 5-firstlines - displays the first ten lines in a file/directory
 7. 6-third_line -how to print a specific line using awk
 8. 7-file- creating file names with characters in them
+9. 8-cwd_state- how to redirect commands
