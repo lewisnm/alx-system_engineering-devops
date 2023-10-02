@@ -11,3 +11,4 @@
 11. 10-no_more_js- how to delete specific files
 12. 11-directories- how to get the total number of directories
 13. 12-newest_files - how to know which directories are newer
+14. 13-unique - how to list and sort 
