@@ -8,3 +8,4 @@
 8. 7-file- creating file names with characters in them
 9. 8-cwd_state- how to redirect commands
 10. 9-duplicate_last_line -how to duplicate the last line
+11. 10-no_more_js- how to delete specific files
