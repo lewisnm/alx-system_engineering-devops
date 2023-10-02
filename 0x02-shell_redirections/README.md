@@ -22,4 +22,6 @@
 22. 21-reverse - how to reverse input
 23. 22-users_and_homes - displays users together with their home directories
 24. 100-empty_casks - how to find empty files, directories and subdirectories
-25. 101-gifs - how to write all files with .gif extension 
+25. 101-gifs - how to write all files with .gif extension
+26. 102-acrostic - how to decode acrostics
+27. 103-the_biggest_fan - how to write a script that parses web servers 
