@@ -13,4 +13,5 @@
 13. 12-newest_files - how to know which directories are newer
 14. 13-unique - how to list and sort
 15. 14-findthatword - how to display words of a certain pattern
-16. 15-countthatword - how to display in how many lines a word occurs 
+16. 15-countthatword - how to display in how many lines a word occurs
+17. 16-whatsnext - how to display a couple of line together with a specified one. 
