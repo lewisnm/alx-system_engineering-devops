@@ -1,2 +1,2 @@
 #!/bin/bash
-alias rem ="ls | rm *"
+alias del ="ls | rm *"
