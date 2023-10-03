@@ -7,3 +7,4 @@
 7. 6-create_local_variable - how to create a local variable
 8. 7-create_global_variable- how to create global variables
 9. 8-true_knowledge - how to conduct arithmetic functions between a file and integer
+10. 9-divide_and_rule - how to divide numbers in variables
