@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $(( $(cat TRUEKNOWLEDGE) + 128))
+echo -e $(( $(cat TRUEKNOWLEDGE) + 128)) /n > TRUEKNOWLEDGE
