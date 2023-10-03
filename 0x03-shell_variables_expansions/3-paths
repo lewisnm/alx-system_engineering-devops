@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((`echo $PATH | grep -o ":/" | echo-l` + 1))
+echo $PATH | sed s/:/\\n/g | wc -l
