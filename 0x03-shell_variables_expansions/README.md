@@ -6,3 +6,4 @@
 6. 5-local_variables - How to display functions, then both local and global variables.
 7. 6-create_local_variable - how to create a local variable
 8. 7-create_global_variable- how to create global variables
+9. 8-true_knowledge - how to conduct arithmetic functions between a file and integer
