@@ -12,3 +12,7 @@
 12. 11-binary_to_decimal - how to change numbers from base two to base ten
 13. 12-combinations - how to use brace expansion
 14. 13-print_float - how to print a specific number of decimal points
+15. 100-decimal_to_hexadecimal -chnging from base ten to sixteen
+16. 101-rot13 - how to decode and encode using the rot13 encryption
+17. 102-odd - printing all lines from input
+18. 103-water_and_stir - combining two numbers in environment variables
