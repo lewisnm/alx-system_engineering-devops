@@ -8,3 +8,4 @@
 8. 7-create_global_variable- how to create global variables
 9. 8-true_knowledge - how to conduct arithmetic functions between a file and integer
 10. 9-divide_and_rule - how to divide numbers in variables
+11. 10-love_exponent_breath - how to use the raised to power 
