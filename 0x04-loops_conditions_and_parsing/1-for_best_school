@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# This for loop executes the echo command 10 times to print the string "Best School" using a for loop
+
+for _ in {1..10}
+do
+	echo "Best School"
+done
