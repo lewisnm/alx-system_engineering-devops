@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#configures nginx to run and listen to port 80
-sudo service nginx stop
-curl -I 0:80 || echo "nginx is not running"
-sudo service nginx status | grep "inactive"
+# configures nginx to run and listen to port 80
+ln -sf /etc/nginx/sites-available/default /etc/nginx/sites-enabled/default
+service nginx restart
+kill "$(pgrep 'nginx' | head -1)"
